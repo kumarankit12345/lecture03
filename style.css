@@ -1,0 +1,14 @@
+h1{
+    color: #6b18ca;
+    text-align: center;
+}
+h3{
+    color: black;
+    text-align: center;
+}
+
+button:hover{
+color: red;
+background-color: #17ec33;
+text-align: center;
+}
